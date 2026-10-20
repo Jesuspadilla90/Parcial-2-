@@ -77,6 +77,13 @@ captura 3 : lista de tareas registradas
 captura 4 : Prioridades y fechas limites 
 <img width="1317" height="961" alt="image" src="https://github.com/user-attachments/assets/b6d0b76b-7522-4ff4-911a-d7245e10af83" />
 
+  captura 5 : Busquedas y filtros 
+  <img width="1537" height="650" alt="image" src="https://github.com/user-attachments/assets/b1a49814-bead-4ea8-a1ec-851e59a58bbf" />
+
+  captura 6 : estadisticas 
+  <img width="1552" height="412" alt="image" src="https://github.com/user-attachments/assets/360e1d4e-43cc-464c-9925-28c4be45ce1e" />
+
+
 
 
 
