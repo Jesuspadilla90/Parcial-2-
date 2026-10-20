@@ -29,23 +29,23 @@ Tecnologías utilizadas
 
 Instrucciones de ejecución
 
-1. Clonar el repositorio
+Cómo ejecutarlo (GitHub)
+crear una carpeta para guardar el clon del repositorio.
 
-git clone URL_DE_TU_REPOSITORIO
-
-2. Ingresar a la carpeta del proyecto
-
+Abrir una nueva terminal dentro de la carpeta creada y ejecutar los siguientes comandos:
+   
+   git clone https://github.com/Jesuspadilla90/Parcial-2-.git lista-tareas
 cd lista-tareas
-
-3. Instalar las dependencias
-
 npm install
+   
+   También podés hacer clic derecho sobre la carpeta del proyecto que se crea y seleccionar la opción Abrir en terminal integrada.
 
-4. Ejecutar la aplicación
+3. Iniciar la aplicación:
+   
+   npm run dev
 
-npm run dev
 
-5. Abrir el proyecto
+ 4. Abrir el proyecto
 
 Después de ejecutar el comando anterior, abrir en el navegador la dirección que aparece en la terminal, normalmente "http://localhost:5173/".
 
